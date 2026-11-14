@@ -1,0 +1,15 @@
+{
+  "drive_folder_id": "1RCFEAVcEILB5iabrDxuty-SLv1EpV-67",
+  "note": "Brochure files already handled. status: published = on the site; skipped = not a listing to publish; pending = needs photos or manual help.",
+  "files": {
+    "17c70AI6_4Ubt2T_Nq6s_1J2bBu_hadEh": {"title": "Brochure VILLA HUNAB KU (via Exposé JPG)", "slug": "villa-hunab-ku", "status": "published"},
+    "10cBTL1bVxSkrh11R3UMhb954C_H1loV3": {"title": "Brochure VILLA HUNAB KU Inglés.pdf", "slug": "villa-hunab-ku", "status": "published"},
+    "1ehw_ZAvyA7qhx4q6S0Mz8PGGJSAHlLhO": {"title": "Brochure_VILLA_COCO_Aldea_Zama_EN.pdf", "slug": "villa-coco", "status": "published"},
+    "1f5fiJ8M6xcjsAnxnJYsxFbV7CxavYHKe": {"title": "Brochure CASA MAZURI SL Inglés.pdf", "slug": "casa-mazuri", "status": "published"},
+    "1hgeF7Im1yJJNPlSkZ7fcrjyTNp4d0L_C": {"title": "Brochure CASA MILA Inglés.pdf", "slug": "casa-mila", "status": "published"},
+    "1cYvlBe5cZLFmPsUYTezkevoWLX-FFxT7": {"title": "Brochure CASA MILA Español.pdf", "slug": "casa-mila", "status": "skipped"},
+    "1RB_OECe_l2fCIo02hNqeZZvK9KmwfNfj": {"title": "Aldea_Zama_Residence_Brochure.pdf", "slug": "two-suite-residence-aldea-zama", "status": "published"},
+    "1ibQpU3aOltd7rWMzLso49zcPwvYpzgoA": {"title": "Brochure_CASA_CHIC_English_USD6.5M.pdf", "slug": "casa-chic", "status": "pending", "reason": "PDF over 10 MB; needs photos"},
+    "1imXXiFOqZS1gCHWiBPVYfC4YZ51ZGb1G": {"title": "Brochure KOKOON VILLA Inglés.pdf", "slug": "kokoon-villa", "status": "pending", "reason": "PDF over 10 MB; needs photos"}
+  }
+}
