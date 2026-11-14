@@ -320,6 +320,11 @@ cta_title="Request a confidential property positioning review"),
 ]
 
 LISTINGS = [
+dict(slug="casa-carolina", name="Casa Carolina", place="Boca Paila · South Hotel Zone, Tulum", price="USD 5,995,000",
+  tagline="Where privacy and boho luxury converge, on the Caribbean beachfront",
+  specs=[("Bedrooms","7"),("Bathrooms","8 + 1"),("Construction","645 m² · 6,943 sq ft"),("Land","1,689.5 m² · 18,186 sq ft")],
+  text="A private beachfront estate with 21.78 m (71.5 ft) of direct frontage in Tulum's South Hotel Zone. A five-bedroom main residence, a two-bedroom guest casita with its own pool and a private owner's apartment are oriented to capture uninterrupted Caribbean views, with expansive terraces, tropical gardens and staff accommodations.",
+  feats=["71.5 ft of direct Caribbean beachfront","Beachfront pool and rooftop plunge pool with sea views","Five-bedroom main residence, guest casita and owner's apartment","Professional chef's kitchen and al fresco dining terraces","Staff quarters, service areas and private parking"]),
 dict(slug="villa-hunab-ku", name="Villa Hunab Ku", place="Aldea Zamá, Tulum", price="USD 1,195,000",
   tagline="Courtyard architecture and dual-pool living",
   specs=[("Bedrooms","5"),("Bathrooms","6"),("Living area","4,930 sq ft")],
@@ -342,6 +347,11 @@ dict(slug="casa-mila", name="Casa Mila", place="Aldea Zamá Premium, Tulum", pri
   text="Generous living and dining spaces flow toward the terrace, tropical landscaping and private pool. An equipped kitchen, TV room, laundry, storage and private parking make it a home for long stays, combining the scale of a standalone residence with the connected lifestyle of Aldea Zamá.",
   feats=["Private swimming pool and terrace","Gated residential setting","TV room, laundry and storage","Air conditioning and fiber-optic internet","Private parking"],
   co="Co-listed with Darina Gorodova"),
+dict(slug="kokoon-villa", name="Kokoon Villa 2", place="Región 15, Tulum", price="USD 399,000",
+  tagline="Tranquil three-bedroom jungle villa with rooftop pool",
+  specs=[("Bedrooms","3"),("Bathrooms","3 + 2 half"),("Construction","3,444 sq ft"),("Lot","2,368 sq ft")],
+  text="A fully furnished, detached three-level villa in Kokoon Pueblo, a boutique gated community of just eight villas and two apartments where around 65% of the original jungle has been preserved. Every bedroom has its own ensuite; the private rooftop adds a plunge pool, pergola and outdoor kitchen. Built with traditional Mayan techniques, chukum walls and tropical hardwoods, ten minutes from the beach and five from downtown.",
+  feats=["Private rooftop with plunge pool and outdoor kitchen","Three ensuite bedrooms and a private backyard","Shared resort-style pool in the central garden","Gated boutique community of eight villas","Turnkey, with a short-term rental history"]),
 dict(slug="arthouse", name="Arthouse 2106", place="Aldea Zamá, Tulum", price="USD 250,000",
   tagline="Two-level jungle residence with private plunge pool",
   specs=[("Bedrooms","2"),("Bathrooms","2.5"),("Levels","2")],
