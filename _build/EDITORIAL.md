@@ -13,6 +13,15 @@ Goal: organically attract qualified buyers for Tulum / Riviera Maya property thr
 ## Pillars (rotate)
 Market intelligence · Buying well (legal, FX, fideicomiso, costs) · Neighbourhood guides (Aldea Zamá, La Veleta, Región 15, Hotel Zone, Tankah, Akumal) · Branded residences · Wellness real estate · For sellers · Property spotlights (only listings in articles.py LISTINGS).
 
+## NEXUS-5 | TIKKUN rotation (one per article, never the same twice in a row)
+- N — Narrative shift: reframe Tulum/Riviera Maya from hype to governed opportunity (planning status, PDU, title, permits).
+- E — Evidence stack: data pieces (prices per m², rental data, market reports) with named, dated sources.
+- X — Cross-border nodes: written for one feeder market (MSP, Chicago, Canada, Cayman, Mykonos/Ibiza/Miami) or E&V shop.
+- U — Utility assets: checklists, buyer guides, due-diligence briefs the reader can act on.
+- S — Signal amplification: synthesis of recent articles + one clear CTA (the form), built for LinkedIn sharing.
+TIKKUN = trust repair: document better than others promise. No hype, no invented scarcity, due diligence on every project named.
+Log format: date · slug · audience · pillar (N/E/X/U/S).
+
 ## Rules for every article
 - Title answers a real search question a person from the target audience would type (e.g. "Can Canadians own beachfront property in Tulum?").
 - First paragraph gives the direct answer in 2–3 sentences (AEO).
@@ -25,4 +34,4 @@ Market intelligence · Buying well (legal, FX, fideicomiso, costs) · Neighbourh
 - Do not repeat a topic already in ARTICLES; check titles first.
 
 ## Log
-(Scheduled runs append one line per article: date · slug · audience · pillar.)
+(Scheduled runs append one line per article: date · slug · audience · pillar · NEXUS-5 letter.)
