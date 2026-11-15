@@ -53,6 +53,33 @@
       "title": "Exposé CASA CAROLINA.JPEG",
       "slug": "casa-carolina",
       "status": "published"
+    },
+    "1KjxtwRS0w8f95fJIE0W8LvpyYciBhJ7p": {
+      "title": "Brochure CASA ESCOCESA SL Inglés.pdf",
+      "slug": "casa-escocesa",
+      "status": "published"
+    },
+    "1-wOY842TmCTQkPtQJGQtRFHfc2_dbS8f": {
+      "title": "Brochure AFLORA SL Inglés.pdf",
+      "slug": "aflora",
+      "status": "published"
+    },
+    "1WgX92azdWG9duvDqkyTA4Uail-ap29Gb": {
+      "title": "Brochure MIRALUNA PH 335 SL Inglés.pdf",
+      "slug": "miraluna-ph-335",
+      "status": "published"
+    },
+    "1g6cLE97fqVR8Fh3BD-Zc3D0tqKRyPij0": {
+      "title": "Brochure CASA PURUSHA SL Español.pdf",
+      "slug": "casa-purusha",
+      "status": "published",
+      "note": "Spanish-only brochure; no English version published, so text translated"
+    },
+    "1d9CpHUVlAlneQu-GTpVgxJCiZGByk0p9": {
+      "title": "FOLLETO VILLA TOH 4_SIN LOGO.pdf",
+      "slug": "villa-toh-4",
+      "status": "pending",
+      "reason": "PDF is 15.6 MB (over 10 MB limit); needs a lighter PDF or JPG photos"
     }
   }
 }
