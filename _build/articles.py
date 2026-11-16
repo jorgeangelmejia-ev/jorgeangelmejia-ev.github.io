@@ -317,6 +317,61 @@ OMNI MLS facilitates collaboration among participating real estate professionals
 
 > The advantage comes when market intelligence, presentation, distribution, buyer qualification and negotiation work as one strategy, with one accountable point of representation.""",
 cta_title="Request a confidential property positioning review"),
+dict(slug="minneapolis-to-tulum-flights-second-home", section="Buying Well", date="2026-11-16",
+title="Is There a Direct Flight from Minneapolis to Tulum? What It Means for a Second Home",
+desc="No nonstop MSP to Tulum flight is listed for winter 2026–27. How Minneapolis buyers actually reach Tulum, and why it should shape where you buy.",
+body="""Not at the moment. At the time of writing, there is no nonstop flight between Minneapolis–St. Paul (MSP) and Tulum International Airport (TQO). The practical route for most Twin Cities owners is a nonstop to Cancún, roughly four hours and twenty minutes in the air, followed by about 120 km by road to Tulum.
+
+That answer matters more than it seems. For a winter second home, the trip you make ten times a year shapes how often you use the property, how easily family joins you and which neighbourhood makes sense.
+
+## What happened to the Minneapolis–Tulum nonstop?
+
+Delta operated a Saturday seasonal service from MSP to Tulum after the new airport opened. Ahead of winter 2025–26 it dropped that route, along with Detroit, keeping Atlanta as its Tulum gateway, as Thrifty Traveler reported in August 2025. The Minnesota Star Tribune noted that Delta was trading Tulum for a new Minneapolis–Nassau route that season.
+
+The cut was part of a wider pullback. According to Cirium data cited by Thrifty Traveler, US airlines planned 27% fewer seats to Tulum for winter 2025–26 than the year before. Tulum's airport handled about 1.24 million passengers in 2025, and international travellers fell 34% in the first quarter of 2026, according to figures from the airport and Mexico's Federal Civil Aviation Agency (AFAC) reported by Riviera Maya News.
+
+For winter 2026–27, Mexico News Daily reported in August that international connections to Tulum were returning from Toronto, Montreal, Calgary, Quebec City, Newark, Houston, Dallas, Miami and Atlanta, running from late October through March. Minneapolis was not on that list.
+
+## How do Twin Cities owners get to Tulum today?
+
+There are three realistic options:
+
+- Nonstop to Cancún. Delta and Sun Country both fly MSP–CUN nonstop. From Cancún airport, Tulum is about 120 km, roughly 1 hour 35 minutes by car, with around 20 minutes more for the beach Hotel Zone.
+- Cancún plus Tren Maya. A short shuttle links Cancún airport to its Tren Maya station. The ride to Tulum takes about 1 hour 43 minutes, with a limited number of daily departures. Confirm schedules on the official Tren Maya site before you rely on it.
+- One stop into Tulum directly. Connections through Atlanta, Houston, Dallas, Miami or Newark land at TQO, about 40 km from Tulum town, or around 40 minutes by car.
+
+Door to door, a well-timed Cancún itinerary and a one-stop TQO itinerary often end up closer than they look on paper. The right choice depends on season, fares and how much you value one flight instead of two.
+
+> Buy for the trip you will repeat, not for the airport you hope will reopen.
+
+## Why does air access change where you should buy?
+
+Route maps change every season. A purchase decision should not depend on a single carrier restoring a single route. Three practical consequences for Minneapolis buyers:
+
+- Proximity to the highway matters. Properties close to Federal Highway 307, whether in Aldea Zamá, La Veleta or Región 15, reduce the final leg after a Cancún arrival. Deep jungle or far-south beach locations add time on every visit.
+- North of Tulum deserves a look. Tankah Bay and Akumal sit between Tulum and Playa del Carmen, which shortens the drive from Cancún while keeping a quieter coastline.
+- Rental assumptions should be conservative. If part of your plan is to offset costs by renting the home when you are not using it, remember that guest arrivals follow the same airlift. Underwrite with current performance, not launch-era projections.
+
+On that last point, our own Q3 2026 data showed average annual short-term rental revenue per listing down 13.9% year over year. That is not a reason to avoid Tulum, but it is a reason to buy a home you will enjoy using yourself.
+
+## What does a good Minneapolis winter plan look like?
+
+The owners I see using their homes most are those who planned around logistics from the start:
+
+- They choose a property that works with a Cancún arrival, so a cancelled TQO connection is an inconvenience, not a lost trip.
+- They hire local property management before closing, so the house is open, cooled and stocked when they land.
+- They structure the purchase properly. Foreign buyers acquire property in the restricted coastal zone through a bank trust (fideicomiso) or a Mexican company. Confirm the right structure with a Mexican notary and your US tax advisor.
+- They watch the schedule each autumn. Airline networks for the following winter are usually announced months ahead, and routes return when demand returns.
+
+For buyers who want beachfront and a shorter drive from Cancún, Casa Escocesa at Tankah Bay, with 20 metres of Caribbean frontage on titled land, is an example of how location north of Tulum can work in your favour.
+
+## The bottom line
+
+Minneapolis–Tulum is not a one-flight trip this winter, and it may not be next winter either. That is a planning variable, not a deal-breaker, because Cancún remains a nonstop from MSP. Choose a location, a management plan and a budget that assume the route you can book today.""",
+faq=[("Is there a direct flight from Minneapolis to Tulum?","At the time of writing, no nonstop MSP–Tulum flight is listed. Delta dropped its seasonal Saturday service ahead of winter 2025–26, and Minneapolis was not among the routes announced to return for winter 2026–27."),
+     ("What is the fastest way to get from Minneapolis to Tulum?","Most travellers fly nonstop from MSP to Cancún with Delta or Sun Country, about 4 hours 20 minutes, then drive roughly 1 hour 35 minutes (about 120 km) to Tulum. One-stop itineraries via Atlanta, Houston, Dallas, Miami or Newark land directly at Tulum's airport."),
+     ("Should flight access affect where I buy in Tulum?","Yes. Locations close to Federal Highway 307, or north of Tulum in areas such as Tankah Bay and Akumal, shorten the drive after a Cancún arrival and make a home easier to use regardless of which routes airlines operate."),
+     ("Can Americans own property in Tulum?","Yes. In Mexico's restricted coastal zone, foreign buyers typically hold residential property through a bank trust (fideicomiso) or a Mexican company. Confirm the structure with a Mexican notary and your tax advisor.")]),
 ]
 
 LISTINGS = [
