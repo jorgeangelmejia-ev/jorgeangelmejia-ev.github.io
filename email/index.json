@@ -5,7 +5,9 @@
   "key": "M0",
   "name": "Moment 0 · Welcome (EN)",
   "subject": "Welcome, #lead_first_name# — here is what happens next",
-  "pre": "A few personal notes, at your pace, or speak with Jorge now."
+  "pre": "A few personal notes, at your pace, or speak with Jorge now.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m1-en.html",
@@ -13,7 +15,9 @@
   "key": "M1",
   "name": "Moment 1 · Vision (EN)",
   "subject": "Your place in Tulum, as you described it",
-  "pre": "A first look, chosen around what you told me."
+  "pre": "A first look, chosen around what you told me.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m2-en.html",
@@ -21,7 +25,9 @@
   "key": "M2",
   "name": "Moment 2 · Home (EN)",
   "subject": "What home means here",
-  "pre": "Privacy, light and the rhythm of a day in Tulum."
+  "pre": "Privacy, light and the rhythm of a day in Tulum.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m3-en.html",
@@ -29,7 +35,9 @@
   "key": "M3",
   "name": "Moment 3 · Decision (EN)",
   "subject": "What you would need to decide, and when",
-  "pre": "The steps from interest to keys, without surprises."
+  "pre": "The steps from interest to keys, without surprises.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m4-en.html",
@@ -37,7 +45,9 @@
   "key": "M4",
   "name": "Moment 4 · Evidence (EN)",
   "subject": "The numbers behind the decision",
-  "pre": "Prices, costs and the market, with sources."
+  "pre": "Prices, costs and the market, with sources.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m5-en.html",
@@ -45,7 +55,9 @@
   "key": "M5",
   "name": "Moment 5 · Legacy (EN)",
   "subject": "A home that stays in the family",
-  "pre": "Ownership, succession and how the area is planned."
+  "pre": "Ownership, succession and how the area is planned.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m6-en.html",
@@ -53,7 +65,9 @@
   "key": "M6",
   "name": "Moment 6 · Lifestyle (EN)",
   "subject": "A day on the Riviera Maya coast",
-  "pre": "Morning swim, long lunch, quiet evening."
+  "pre": "Morning swim, long lunch, quiet evening.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m7-en.html",
@@ -61,7 +75,9 @@
   "key": "M7",
   "name": "Moment 7 · Trust (EN)",
   "subject": "Whatever you decide, I am here",
-  "pre": "A short note, with no pressure at all."
+  "pre": "A short note, with no pressure at all.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "insider-en.html",
@@ -69,7 +85,9 @@
   "key": "INSIDER",
   "name": "The Insider · Monthly letter (EN)",
   "subject": "The Insider: Tulum this month",
-  "pre": "One market note, one home, one experience."
+  "pre": "One market note, one home, one experience.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m0-es.html",
@@ -77,7 +95,9 @@
   "key": "M0",
   "name": "Momento 0 · Bienvenida (ES)",
   "subject": "Bienvenido/a, #lead_first_name#: esto es lo que sigue",
-  "pre": "Algunas notas personales, a su ritmo, o hable con Jorge ahora."
+  "pre": "Algunas notas personales, a su ritmo, o hable con Jorge ahora.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m1-es.html",
@@ -85,7 +105,9 @@
   "key": "M1",
   "name": "Momento 1 · Visión (ES)",
   "subject": "Su lugar en Tulum, tal como lo describió",
-  "pre": "Una primera mirada, elegida a partir de lo que me compartió."
+  "pre": "Una primera mirada, elegida a partir de lo que me compartió.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m2-es.html",
@@ -93,7 +115,9 @@
   "key": "M2",
   "name": "Momento 2 · Hogar (ES)",
   "subject": "Lo que significa un hogar aquí",
-  "pre": "Privacidad, luz y el ritmo de un día en Tulum."
+  "pre": "Privacidad, luz y el ritmo de un día en Tulum.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m3-es.html",
@@ -101,7 +125,9 @@
   "key": "M3",
   "name": "Momento 3 · Decisión (ES)",
   "subject": "Lo que tendría que decidir, y cuándo",
-  "pre": "Los pasos del interés a las llaves, sin sorpresas."
+  "pre": "Los pasos del interés a las llaves, sin sorpresas.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m4-es.html",
@@ -109,7 +135,9 @@
   "key": "M4",
   "name": "Momento 4 · Evidencia (ES)",
   "subject": "Los números detrás de la decisión",
-  "pre": "Precios, costos y mercado, con fuentes."
+  "pre": "Precios, costos y mercado, con fuentes.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m5-es.html",
@@ -117,7 +145,9 @@
   "key": "M5",
   "name": "Momento 5 · Legado (ES)",
   "subject": "Una casa que se queda en la familia",
-  "pre": "Propiedad, sucesión y cómo se planea la zona."
+  "pre": "Propiedad, sucesión y cómo se planea la zona.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m6-es.html",
@@ -125,7 +155,9 @@
   "key": "M6",
   "name": "Momento 6 · Estilo de vida (ES)",
   "subject": "Un día en la costa de la Riviera Maya",
-  "pre": "Nado temprano, comida larga, tarde tranquila."
+  "pre": "Nado temprano, comida larga, tarde tranquila.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "m7-es.html",
@@ -133,7 +165,9 @@
   "key": "M7",
   "name": "Momento 7 · Confianza (ES)",
   "subject": "Decida lo que decida, aquí estoy",
-  "pre": "Una nota breve, sin ninguna presión."
+  "pre": "Una nota breve, sin ninguna presión.",
+  "track": "Buyer",
+  "status": "approved"
  },
  {
   "file": "insider-es.html",
@@ -141,6 +175,456 @@
   "key": "INSIDER",
   "name": "The Insider · Carta mensual (ES)",
   "subject": "The Insider: Tulum este mes",
-  "pre": "Una nota de mercado, una casa, una experiencia."
+  "pre": "Una nota de mercado, una casa, una experiencia.",
+  "track": "Buyer",
+  "status": "approved"
+ },
+ {
+  "file": "s0-en.html",
+  "lang": "en",
+  "key": "S0",
+  "track": "Seller",
+  "name": "Seller 0 · Welcome (EN)",
+  "subject": "#lead_first_name#, about your property: what happens next",
+  "pre": "A clear valuation first, a decision later, no obligation.",
+  "day": 0,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s0-es.html",
+  "lang": "es",
+  "key": "S0",
+  "track": "Seller",
+  "name": "Vendedor 0 · Bienvenida (ES)",
+  "subject": "#lead_first_name#, sobre su propiedad: lo que sigue",
+  "pre": "Primero una valuación clara, después una decisión, sin compromiso.",
+  "day": 0,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s1-en.html",
+  "lang": "en",
+  "key": "S1",
+  "track": "Seller",
+  "name": "Seller 1 · Pricing (EN)",
+  "subject": "How a Tulum home is priced, honestly",
+  "pre": "Closed prices, asking prices and the gap between them.",
+  "day": 2,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s1-es.html",
+  "lang": "es",
+  "key": "S1",
+  "track": "Seller",
+  "name": "Vendedor 1 · Precio (ES)",
+  "subject": "Cómo se fija el precio de una casa en Tulum, con honestidad",
+  "pre": "Precios de cierre, precios de oferta y la distancia entre ambos.",
+  "day": 2,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s2-en.html",
+  "lang": "en",
+  "key": "S2",
+  "track": "Seller",
+  "name": "Seller 2 · Global reach (EN)",
+  "subject": "Who will see your home, and where",
+  "pre": "One local advisor, an international network behind the listing.",
+  "day": 5,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://www.engelvoelkers.com/es/en/company/about-us",
+   "https://a.storyblok.com/f/209096/x/1c9692fbbc/gg-mediakit_2027_eng.pdf"
+  ]
+ },
+ {
+  "file": "s2-es.html",
+  "lang": "es",
+  "key": "S2",
+  "track": "Seller",
+  "name": "Vendedor 2 · Alcance global (ES)",
+  "subject": "Quién verá su propiedad, y desde dónde",
+  "pre": "Un asesor local con una red internacional detrás.",
+  "day": 5,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://www.engelvoelkers.com/es/en/company/about-us",
+   "https://a.storyblok.com/f/209096/x/1c9692fbbc/gg-mediakit_2027_eng.pdf"
+  ]
+ },
+ {
+  "file": "s3-en.html",
+  "lang": "en",
+  "key": "S3",
+  "track": "Seller",
+  "name": "Seller 3 · Tax and notary (EN)",
+  "subject": "What the notary will calculate when you sell",
+  "pre": "Capital gains tax in Mexico, in plain terms.",
+  "day": 9,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://mley.mx/LISR/articulo/160/",
+   "https://www.elimparcial.com/dinero/2026/05/09/sat-explica-cuando-debes-pagar-isr-por-vender-una-casa-en-mexico-y-en-que-casos-puedes-evitar-legalmente-el-impuesto/",
+   "https://idconline.mx/fiscal-contable/2025/11/24/residencia-fiscal-en-mexico-en-venta-de-casa-por-extranjeros"
+  ]
+ },
+ {
+  "file": "s3-es.html",
+  "lang": "es",
+  "key": "S3",
+  "track": "Seller",
+  "name": "Vendedor 3 · Impuestos y notaría (ES)",
+  "subject": "Lo que el notario calculará cuando venda",
+  "pre": "El ISR por enajenación en México, en términos claros.",
+  "day": 9,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://mley.mx/LISR/articulo/160/",
+   "https://www.elimparcial.com/dinero/2026/05/09/sat-explica-cuando-debes-pagar-isr-por-vender-una-casa-en-mexico-y-en-que-casos-puedes-evitar-legalmente-el-impuesto/",
+   "https://idconline.mx/fiscal-contable/2025/11/24/residencia-fiscal-en-mexico-en-venta-de-casa-por-extranjeros"
+  ]
+ },
+ {
+  "file": "s4-en.html",
+  "lang": "en",
+  "key": "S4",
+  "track": "Seller",
+  "name": "Seller 4 · Preparation (EN)",
+  "subject": "Preparing your home, and your paperwork",
+  "pre": "What buyers and notaries will ask for, ready in advance.",
+  "day": 14,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s4-es.html",
+  "lang": "es",
+  "key": "S4",
+  "track": "Seller",
+  "name": "Vendedor 4 · Preparación (ES)",
+  "subject": "Preparar su propiedad, y sus documentos",
+  "pre": "Lo que compradores y notarios pedirán, listo de antemano.",
+  "day": 14,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s5-en.html",
+  "lang": "en",
+  "key": "S5",
+  "track": "Seller",
+  "name": "Seller 5 · Trust (EN)",
+  "subject": "Whenever you are ready",
+  "pre": "No pressure, and the door stays open.",
+  "day": 21,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "s5-es.html",
+  "lang": "es",
+  "key": "S5",
+  "track": "Seller",
+  "name": "Vendedor 5 · Confianza (ES)",
+  "subject": "Cuando usted esté listo",
+  "pre": "Sin presión, y la puerta sigue abierta.",
+  "day": 21,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b0-en.html",
+  "lang": "en",
+  "key": "B0",
+  "track": "Broker",
+  "name": "Broker 0 · Introduction (EN)",
+  "subject": "Your clients in Tulum, looked after locally",
+  "pre": "A local partner for buyers and sellers you refer to the Riviera Maya.",
+  "day": 0,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b0-es.html",
+  "lang": "es",
+  "key": "B0",
+  "track": "Broker",
+  "name": "Agente 0 · Presentación (ES)",
+  "subject": "Sus clientes en Tulum, atendidos localmente",
+  "pre": "Un aliado local para compradores y vendedores que refiera a la Riviera Maya.",
+  "day": 0,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b1-en.html",
+  "lang": "en",
+  "key": "B1",
+  "track": "Broker",
+  "name": "Broker 1 · How referrals work (EN)",
+  "subject": "How a referral to Tulum works, step by step",
+  "pre": "Written terms first, regular updates, your client relationship intact.",
+  "day": 4,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b1-es.html",
+  "lang": "es",
+  "key": "B1",
+  "track": "Broker",
+  "name": "Agente 1 · Cómo funciona la referencia (ES)",
+  "subject": "Cómo funciona una referencia a Tulum, paso a paso",
+  "pre": "Términos por escrito, actualizaciones constantes y su relación con el cliente intacta.",
+  "day": 4,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b2-en.html",
+  "lang": "en",
+  "key": "B2",
+  "track": "Broker",
+  "name": "Broker 2 · Inventory (EN)",
+  "subject": "What we can show your clients this month",
+  "pre": "Current homes, with full details on one page each.",
+  "day": 10,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b2-es.html",
+  "lang": "es",
+  "key": "B2",
+  "track": "Broker",
+  "name": "Agente 2 · Inventario (ES)",
+  "subject": "Lo que podemos mostrar a sus clientes este mes",
+  "pre": "Propiedades actuales, con detalles completos en una página cada una.",
+  "day": 10,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b3-en.html",
+  "lang": "en",
+  "key": "B3",
+  "track": "Broker",
+  "name": "Broker 3 · Market brief (EN)",
+  "subject": "A short brief on the Tulum market, for your clients",
+  "pre": "Evidence-led, with sources, ready to forward.",
+  "day": 20,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "b3-es.html",
+  "lang": "es",
+  "key": "B3",
+  "track": "Broker",
+  "name": "Agente 3 · Nota de mercado (ES)",
+  "subject": "Una nota breve sobre el mercado de Tulum, para sus clientes",
+  "pre": "Con evidencia y fuentes, lista para reenviar.",
+  "day": 20,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "inv1-en.html",
+  "lang": "en",
+  "key": "INV1",
+  "track": "Investor",
+  "name": "Investor 1 · Rental rules (EN)",
+  "subject": "Renting out your Tulum home: the rules that apply",
+  "pre": "Taxes and registrations for vacation rentals in Quintana Roo.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://mley.mx/LISR/articulo/158/",
+   "https://agqroo.qroo.gob.mx/wp-content/uploads/2026/01/1767992043_2_641.pdf"
+  ]
+ },
+ {
+  "file": "inv1-es.html",
+  "lang": "es",
+  "key": "INV1",
+  "track": "Investor",
+  "name": "Inversionista 1 · Reglas de renta (ES)",
+  "subject": "Rentar su casa en Tulum: las reglas que aplican",
+  "pre": "Impuestos y registros para rentas vacacionales en Quintana Roo.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://mley.mx/LISR/articulo/158/",
+   "https://agqroo.qroo.gob.mx/wp-content/uploads/2026/01/1767992043_2_641.pdf"
+  ]
+ },
+ {
+  "file": "l-legal-en.html",
+  "lang": "en",
+  "key": "L-LEGAL",
+  "track": "Library",
+  "name": "Library · Buying in Mexico as a foreigner (EN)",
+  "subject": "Owning near the coast in Mexico, explained",
+  "pre": "The bank trust, the permit, the notary and the acquisition tax.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://portales.sre.gob.mx/tramites-dgaj/art-27-constitucional/costos-y-tiempos",
+   "https://www.bbva.mx/educacion-financiera/banca-digital/fideicomiso-para-extranjeros.html",
+   "https://documentos.congresoqroo.gob.mx/leyes/L276-XVIII-20241209-L1820241209048-Ley-de-Hacienda-del-Mpio-de-Tulum.pdf"
+  ]
+ },
+ {
+  "file": "l-legal-es.html",
+  "lang": "es",
+  "key": "L-LEGAL",
+  "track": "Library",
+  "name": "Biblioteca · Comprar en México siendo extranjero (ES)",
+  "subject": "Ser propietario cerca de la costa en México, explicado",
+  "pre": "El fideicomiso, el permiso, el notario y el impuesto de adquisición.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://portales.sre.gob.mx/tramites-dgaj/art-27-constitucional/costos-y-tiempos",
+   "https://www.bbva.mx/educacion-financiera/banca-digital/fideicomiso-para-extranjeros.html",
+   "https://documentos.congresoqroo.gob.mx/leyes/L276-XVIII-20241209-L1820241209048-Ley-de-Hacienda-del-Mpio-de-Tulum.pdf"
+  ]
+ },
+ {
+  "file": "l-life-en.html",
+  "lang": "en",
+  "key": "L-LIFE",
+  "track": "Library",
+  "name": "Library · Living in Tulum (EN)",
+  "subject": "Tulum today: getting here, and what surrounds you",
+  "pre": "A new airport, the train, a national park and a biosphere reserve.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://inah.gob.mx/images/boletines/2025/81/Boletin%2081.pdf",
+   "https://whc.unesco.org/en/list/410/documents"
+  ]
+ },
+ {
+  "file": "l-life-es.html",
+  "lang": "es",
+  "key": "L-LIFE",
+  "track": "Library",
+  "name": "Biblioteca · Vivir en Tulum (ES)",
+  "subject": "Tulum hoy: cómo llegar y qué le rodea",
+  "pre": "Un aeropuerto nuevo, el tren, un parque nacional y una reserva de la biosfera.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://inah.gob.mx/images/boletines/2025/81/Boletin%2081.pdf",
+   "https://whc.unesco.org/en/list/410/documents"
+  ]
+ },
+ {
+  "file": "l-bio-en.html",
+  "lang": "en",
+  "key": "L-BIO",
+  "track": "Library",
+  "name": "Library · Advisor bio (Jorge) (EN)",
+  "subject": "A little about who you are speaking with",
+  "pre": "Nearly 20 years in Tulum, and why that matters to you.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "l-bio-es.html",
+  "lang": "es",
+  "key": "L-BIO",
+  "track": "Library",
+  "name": "Biblioteca · Perfil del asesor (Jorge) (ES)",
+  "subject": "Un poco sobre quién le atiende",
+  "pre": "Casi 20 años en Tulum, y por qué eso le importa.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "l-network-en.html",
+  "lang": "en",
+  "key": "L-NETWORK",
+  "track": "Library",
+  "name": "Library · The Engel & Völkers network (EN)",
+  "subject": "What the Engel & Völkers network means for you",
+  "pre": "A local advisor, a network on five continents.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://www.engelvoelkers.com/es/en/company/about-us",
+   "https://a.storyblok.com/f/209096/x/1c9692fbbc/gg-mediakit_2027_eng.pdf"
+  ]
+ },
+ {
+  "file": "l-network-es.html",
+  "lang": "es",
+  "key": "L-NETWORK",
+  "track": "Library",
+  "name": "Biblioteca · La red Engel & Völkers (ES)",
+  "subject": "Lo que la red Engel & Völkers significa para usted",
+  "pre": "Un asesor local, una red en cinco continentes.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": [
+   "https://www.engelvoelkers.com/es/en/company/about-us",
+   "https://a.storyblok.com/f/209096/x/1c9692fbbc/gg-mediakit_2027_eng.pdf"
+  ]
+ },
+ {
+  "file": "p1-en.html",
+  "lang": "en",
+  "key": "P1",
+  "track": "Past client",
+  "name": "Past client 1 · Home anniversary (EN)",
+  "subject": "A year in your home, #lead_first_name#",
+  "pre": "A short check-in, and an updated value if you would like one.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "p1-es.html",
+  "lang": "es",
+  "key": "P1",
+  "track": "Past client",
+  "name": "Cliente 1 · Aniversario (ES)",
+  "subject": "Un año en su casa, #lead_first_name#",
+  "pre": "Un saludo breve, y un valor actualizado si lo desea.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "p2-en.html",
+  "lang": "en",
+  "key": "P2",
+  "track": "Past client",
+  "name": "Past client 2 · Referral thanks (EN)",
+  "subject": "Thank you for the introduction",
+  "pre": "Your trust, passed on, is the best compliment.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
+ },
+ {
+  "file": "p2-es.html",
+  "lang": "es",
+  "key": "P2",
+  "track": "Past client",
+  "name": "Cliente 2 · Gracias por la referencia (ES)",
+  "subject": "Gracias por la recomendación",
+  "pre": "Su confianza, compartida, es el mejor cumplido.",
+  "day": null,
+  "status": "draft - pending Jorge's approval",
+  "sources": []
  }
 ]
