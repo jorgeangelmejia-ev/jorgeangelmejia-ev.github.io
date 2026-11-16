@@ -5,6 +5,6 @@ REPO="$(cd "$(dirname "$0")/.." && pwd)"
 OUT="$(mktemp -d)/site"
 python3 "$REPO/_build/build.py" "$OUT"
 cd "$REPO"
-find . -mindepth 1 -maxdepth 1 ! -name .git ! -name _build ! -name README.md -exec rm -rf {} +
+find . -mindepth 1 -maxdepth 1 ! -name .git ! -name _build ! -name README.md ! -name email -exec rm -rf {} +
 cp -r "$OUT"/. "$REPO"/
 echo "Site rebuilt into $REPO"

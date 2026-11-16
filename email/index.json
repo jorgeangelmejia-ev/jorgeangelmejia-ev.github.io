@@ -1,0 +1,130 @@
+[
+ {
+  "file": "m1-en.html",
+  "lang": "en",
+  "key": "M1",
+  "name": "Moment 1 · Vision (EN)",
+  "subject": "Your place in Tulum, as you described it",
+  "pre": "A first look, chosen around what you told me."
+ },
+ {
+  "file": "m2-en.html",
+  "lang": "en",
+  "key": "M2",
+  "name": "Moment 2 · Home (EN)",
+  "subject": "What home means here",
+  "pre": "Privacy, light and the rhythm of a day in Tulum."
+ },
+ {
+  "file": "m3-en.html",
+  "lang": "en",
+  "key": "M3",
+  "name": "Moment 3 · Decision (EN)",
+  "subject": "What you would need to decide, and when",
+  "pre": "The steps from interest to keys, without surprises."
+ },
+ {
+  "file": "m4-en.html",
+  "lang": "en",
+  "key": "M4",
+  "name": "Moment 4 · Evidence (EN)",
+  "subject": "The numbers behind the decision",
+  "pre": "Prices, costs and the market, with sources."
+ },
+ {
+  "file": "m5-en.html",
+  "lang": "en",
+  "key": "M5",
+  "name": "Moment 5 · Legacy (EN)",
+  "subject": "A home that stays in the family",
+  "pre": "Ownership, succession and how the area is planned."
+ },
+ {
+  "file": "m6-en.html",
+  "lang": "en",
+  "key": "M6",
+  "name": "Moment 6 · Lifestyle (EN)",
+  "subject": "A day on the Riviera Maya coast",
+  "pre": "Morning swim, long lunch, quiet evening."
+ },
+ {
+  "file": "m7-en.html",
+  "lang": "en",
+  "key": "M7",
+  "name": "Moment 7 · Trust (EN)",
+  "subject": "Whatever you decide, I am here",
+  "pre": "A short note, with no pressure at all."
+ },
+ {
+  "file": "insider-en.html",
+  "lang": "en",
+  "key": "INSIDER",
+  "name": "The Insider · Monthly letter (EN)",
+  "subject": "The Insider: Tulum this month",
+  "pre": "One market note, one home, one experience."
+ },
+ {
+  "file": "m1-es.html",
+  "lang": "es",
+  "key": "M1",
+  "name": "Momento 1 · Visión (ES)",
+  "subject": "Su lugar en Tulum, tal como lo describió",
+  "pre": "Una primera mirada, elegida a partir de lo que me compartió."
+ },
+ {
+  "file": "m2-es.html",
+  "lang": "es",
+  "key": "M2",
+  "name": "Momento 2 · Hogar (ES)",
+  "subject": "Lo que significa un hogar aquí",
+  "pre": "Privacidad, luz y el ritmo de un día en Tulum."
+ },
+ {
+  "file": "m3-es.html",
+  "lang": "es",
+  "key": "M3",
+  "name": "Momento 3 · Decisión (ES)",
+  "subject": "Lo que tendría que decidir, y cuándo",
+  "pre": "Los pasos del interés a las llaves, sin sorpresas."
+ },
+ {
+  "file": "m4-es.html",
+  "lang": "es",
+  "key": "M4",
+  "name": "Momento 4 · Evidencia (ES)",
+  "subject": "Los números detrás de la decisión",
+  "pre": "Precios, costos y mercado, con fuentes."
+ },
+ {
+  "file": "m5-es.html",
+  "lang": "es",
+  "key": "M5",
+  "name": "Momento 5 · Legado (ES)",
+  "subject": "Una casa que se queda en la familia",
+  "pre": "Propiedad, sucesión y cómo se planea la zona."
+ },
+ {
+  "file": "m6-es.html",
+  "lang": "es",
+  "key": "M6",
+  "name": "Momento 6 · Estilo de vida (ES)",
+  "subject": "Un día en la costa de la Riviera Maya",
+  "pre": "Nado temprano, comida larga, tarde tranquila."
+ },
+ {
+  "file": "m7-es.html",
+  "lang": "es",
+  "key": "M7",
+  "name": "Momento 7 · Confianza (ES)",
+  "subject": "Decida lo que decida, aquí estoy",
+  "pre": "Una nota breve, sin ninguna presión."
+ },
+ {
+  "file": "insider-es.html",
+  "lang": "es",
+  "key": "INSIDER",
+  "name": "The Insider · Carta mensual (ES)",
+  "subject": "The Insider: Tulum este mes",
+  "pre": "Una nota de mercado, una casa, una experiencia."
+ }
+]
