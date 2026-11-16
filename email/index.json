@@ -1,5 +1,13 @@
 [
  {
+  "file": "m0-en.html",
+  "lang": "en",
+  "key": "M0",
+  "name": "Moment 0 · Welcome (EN)",
+  "subject": "Welcome, #lead_first_name# — here is what happens next",
+  "pre": "A few personal notes, at your pace, or speak with Jorge now."
+ },
+ {
   "file": "m1-en.html",
   "lang": "en",
   "key": "M1",
@@ -62,6 +70,14 @@
   "name": "The Insider · Monthly letter (EN)",
   "subject": "The Insider: Tulum this month",
   "pre": "One market note, one home, one experience."
+ },
+ {
+  "file": "m0-es.html",
+  "lang": "es",
+  "key": "M0",
+  "name": "Momento 0 · Bienvenida (ES)",
+  "subject": "Bienvenido/a, #lead_first_name#: esto es lo que sigue",
+  "pre": "Algunas notas personales, a su ritmo, o hable con Jorge ahora."
  },
  {
   "file": "m1-es.html",
