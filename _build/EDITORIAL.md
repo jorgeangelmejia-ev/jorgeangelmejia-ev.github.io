@@ -36,3 +36,4 @@ Log format: date · slug · audience · pillar (N/E/X/U/S).
 ## Log
 (Scheduled runs append one line per article: date · slug · audience · pillar · NEXUS-5 letter.)
 - 2026-11-16 · minneapolis-to-tulum-flights-second-home · Minneapolis · X (Buying well)
+- 2026-11-22 · chicago-buyers-tulum-neighbourhood-guide · Chicago · N (Neighbourhood guide)

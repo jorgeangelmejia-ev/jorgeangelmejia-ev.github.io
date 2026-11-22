@@ -372,6 +372,62 @@ faq=[("Is there a direct flight from Minneapolis to Tulum?","At the time of writ
      ("What is the fastest way to get from Minneapolis to Tulum?","Most travellers fly nonstop from MSP to Cancún with Delta or Sun Country, about 4 hours 20 minutes, then drive roughly 1 hour 35 minutes (about 120 km) to Tulum. One-stop itineraries via Atlanta, Houston, Dallas, Miami or Newark land directly at Tulum's airport."),
      ("Should flight access affect where I buy in Tulum?","Yes. Locations close to Federal Highway 307, or north of Tulum in areas such as Tankah Bay and Akumal, shorten the drive after a Cancún arrival and make a home easier to use regardless of which routes airlines operate."),
      ("Can Americans own property in Tulum?","Yes. In Mexico's restricted coastal zone, foreign buyers typically hold residential property through a bank trust (fideicomiso) or a Mexican company. Confirm the structure with a Mexican notary and your tax advisor.")]),
+
+dict(slug="chicago-buyers-tulum-neighbourhood-guide", section="Tulum", date="2026-11-22",
+title="Which Tulum Neighbourhood Works for a Chicago Winter Home?",
+desc="Aldea Zamá, La Veleta, the Hotel Zone or Tankah Bay: a Chicago buyer's guide to Tulum neighbourhoods now that United has left Tulum's airport.",
+body="""For most Chicago buyers, the Tulum neighbourhood that works best is the one that is easiest to reach from Cancún. United has ended its Chicago service to Tulum's airport, while O'Hare still has nonstop flights to Cancún with American, United and Frontier, so Aldea Zamá, La Veleta and Tankah Bay tend to suit a winter home better than locations that depend on a Tulum-airport arrival. The beach Hotel Zone remains the premium choice, but it comes with rules you should understand before you buy.
+
+## Can you still fly from Chicago to Tulum directly?
+
+Not this winter. According to Upgraded Points, United has already ended its Chicago and Los Angeles service to Tulum International Airport (TQO), and its Newark and Houston routes end in early January 2027. Por Esto reported on 7 November 2026 that Delta will suspend Atlanta–Tulum from 3 May 2027, with the route expected to return in November 2027.
+
+Chicago to Cancún is a different story. FlightConnections lists American, United and Frontier on the O'Hare–Cancún route, at roughly 3 hours 55 minutes in the air. From Cancún airport, Tulum is about 120 km by road. That trip, repeated every winter, should drive where you buy.
+
+## Aldea Zamá: is it the right base for a family winter home?
+
+Aldea Zamá sits between Tulum town and the beach. It is the most established residential district for international owners, with cafés, restaurants and gated communities within walking distance, and a short ride to the coast.
+
+- Best for: families who want walkability, design-led villas and a home they can open and close easily each season.
+- Watch for: density varies block by block. A villa backing onto a newer condominium building is a different asset from one on a quiet, finished street.
+- Rental: it is also where short-term rental competition is highest, so underwrite conservatively.
+
+A courtyard home such as Villa Hunab Ku, with five bedrooms and two pools in the heart of Aldea Zamá, shows the type of property Chicago families often ask me about: room for grandchildren, guests and long stays.
+
+## La Veleta and Región 15: where is the value?
+
+La Veleta and Región 15 lie on the town side of the highway, a few minutes from downtown and close to Federal Highway 307, which matters after a Cancún arrival. Prices per square metre are generally below Aldea Zamá, and the stock is more mixed: private villas, boutique communities and some unfinished streets.
+
+- Best for: buyers who prioritise space and a private pool over a beach address.
+- Watch for: road paving, water and electricity connections, and how finished the surrounding blocks are. Visit at night and in the rainy season if you can.
+
+> In Tulum, the neighbourhood decides how often you use the house. The house decides how much you enjoy it once you arrive.
+
+## The Hotel Zone: what changed with Jaguar Park?
+
+The beach road south of the archaeological site is the address most people picture. Since September 2024 much of it sits within or beside Parque del Jaguar, a 2,912-hectare reserve that combines Tulum National Park, the Jaguar protected area, the archaeological zone and several beaches, according to National Parks Traveler. The same report notes that the park is run by the military with several federal agencies, that no new hotels are allowed inside its boundaries, and that some existing hotels were grandfathered in.
+
+- Best for: buyers who want beachfront and accept a premium for scarcity that is real, not marketed.
+- Watch for: title, federal maritime zone concessions, access arrangements and environmental permits. These require a notary and specialist due diligence, not a brochure.
+
+## Tankah Bay and Akumal: the Chicago-friendly coast?
+
+North of Tulum, between town and Akumal, Tankah Bay offers a quieter Caribbean coastline with a shorter drive from Cancún than the southern Hotel Zone. For an owner landing at Cancún on a Saturday morning, that difference adds up over ten winters.
+
+- Best for: beachfront buyers who value calm, privacy and access over nightlife.
+- Watch for: fewer services nearby, and the same coastal title and permit questions as any beachfront.
+
+## What about the rules for future building?
+
+This is the part buyers most often overlook. Tulum's 2024 urban development programme (PDU) was cancelled by the municipal council, according to El Congresista, and the 2006 plan remains in force while a new one is prepared. Rules for density and land use could change again, so a permit that exists today matters more than a promise of what can be built tomorrow.
+
+## The bottom line
+
+A Chicago winter home in Tulum works when it fits the route you can book every year. Today that route runs through Cancún. Shortlist neighbourhoods by that trip, then by lifestyle, then by legal quality. Foreign buyers in the coastal zone hold property through a bank trust (fideicomiso) or a Mexican company; confirm the structure with a Mexican notary and your US tax advisor.""",
+faq=[("Is there a direct flight from Chicago to Tulum?","Not at the time of writing. United has ended its Chicago service to Tulum International Airport. American, United and Frontier fly nonstop from O'Hare to Cancún, about 3 hours 55 minutes, and Tulum is roughly 120 km from Cancún airport by road."),
+     ("What is the best Tulum neighbourhood for a winter second home?","It depends on how you travel and live. Aldea Zamá suits families who want walkability and services, La Veleta and Región 15 offer more space for the price, the Hotel Zone offers beachfront within the Jaguar Park area, and Tankah Bay offers quieter beachfront closer to Cancún."),
+     ("Can foreigners buy beachfront property in Tulum?","Yes. In Mexico's restricted coastal zone, foreign buyers typically hold property through a bank trust (fideicomiso) or a Mexican company. Beachfront purchases also need checks on title, federal maritime zone concessions and permits; confirm them with a Mexican notary."),
+     ("Is Tulum's urban development plan in force?","According to El Congresista, the council cancelled the PDU approved in 2024, and the 2006 plan remains in force while a new programme is drafted. Verify current land-use rules for any specific lot before you buy.")]),
 ]
 
 LISTINGS = [
