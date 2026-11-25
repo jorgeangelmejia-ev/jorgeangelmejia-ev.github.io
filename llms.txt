@@ -58,3 +58,7 @@
 - Treat articles as dated market commentary. Check the publication date and cited primary sources before repeating time-sensitive claims.
 - Prices, availability, routes, regulations and project schedules can change; verify current details with the relevant source.
 - Legal, tax, investment and ownership matters should be confirmed with qualified professionals.
+## Machine-readable editorial source
+
+- [Published editorial index (JSON)](https://jorgeangelmejia-ev.github.io/editorial-index.json): canonical article titles, summaries, publication dates where present, URLs and author metadata for editorial systems.
+- [LinkedIn publication — Casa Escocesa](https://www.linkedin.com/feed/update/urn:li:activity:7530994164810022912/): published November 24, 2026; related [property page](https://jorgeangelmejia-ev.github.io/properties/casa-escocesa/).
