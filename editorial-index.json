@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-24",
   "owner": {
     "name": "Jorge Ángel Mejía Hernández",
     "title": "Sales Manager and Real Estate Advisor",
@@ -247,6 +247,28 @@
       "canonical_property_url": "https://jorgeangelmejia-ev.github.io/properties/casa-escocesa/",
       "campaign": "nexus-weekly",
       "source": "LinkedIn public post"
+    }
+  ],
+  "external_articles": [
+    {
+      "title": "Buying Real Estate in Tulum: Jorge Angel on Luxury Property",
+      "published_at": "2026-11-11",
+      "url": "https://www.inmexico.com/inspiring-people/buying-real-estate-in-tulum-jorge-angel/",
+      "source": "InMexico interview",
+      "author": "Jorge Angel Mejía Hernández",
+      "language": "en",
+      "review_status": "author_bio_correction_needed",
+      "review_note": "Publisher copy describes nearly two decades in Tulum; current verified professional history says Riviera Maya real-estate advisory since 2012. Correct with publisher before reuse."
+    },
+    {
+      "title": "Is it safe to invest in Real Estate property in Tulum?",
+      "published_at": null,
+      "url": "https://www.linkedin.com/pulse/safe-invest-real-estate-property-tulum-jorge-angel-mej%C3%ADa-hern%C3%A1ndez",
+      "source": "LinkedIn Pulse",
+      "author": "Jorge Angel Mejía Hernández",
+      "language": "en",
+      "review_status": "legacy_legal_review_required",
+      "review_note": "Contains absolute legal assurances and older Mexico ownership guidance; do not republish unchanged. Direct readers to independent Mexican counsel."
     }
   ]
 }
