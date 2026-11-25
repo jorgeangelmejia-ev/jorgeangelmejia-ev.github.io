@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /email/
 Allow: /
-Disallow: /email/
 Sitemap: https://jorgeangelmejia-ev.github.io/sitemap.xml
 
 User-agent: GPTBot
